@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/samll_movie_app/static/js/main.dbbd311e.js",
+    "main.js": "/samll_movie_app/static/js/main.1aa30641.js",
     "index.html": "/samll_movie_app/index.html",
-    "main.dbbd311e.js.map": "/samll_movie_app/static/js/main.dbbd311e.js.map"
+    "main.1aa30641.js.map": "/samll_movie_app/static/js/main.1aa30641.js.map"
   },
   "entrypoints": [
-    "static/js/main.dbbd311e.js"
+    "static/js/main.1aa30641.js"
   ]
 }
