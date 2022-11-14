@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/samll_movie_app/static/js/main.1aa30641.js",
+    "main.css": "/samll_movie_app/static/css/main.8b9ac086.css",
+    "main.js": "/samll_movie_app/static/js/main.b7a5ff0e.js",
     "index.html": "/samll_movie_app/index.html",
-    "main.1aa30641.js.map": "/samll_movie_app/static/js/main.1aa30641.js.map"
+    "main.8b9ac086.css.map": "/samll_movie_app/static/css/main.8b9ac086.css.map",
+    "main.b7a5ff0e.js.map": "/samll_movie_app/static/js/main.b7a5ff0e.js.map"
   },
   "entrypoints": [
-    "static/js/main.1aa30641.js"
+    "static/css/main.8b9ac086.css",
+    "static/js/main.b7a5ff0e.js"
   ]
 }
