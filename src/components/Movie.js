@@ -1,9 +1,14 @@
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
+import styled from "styled-components";
+
+const Container = styled.article`
+  display: flex;
+`;
 
 const Movie = ({ id, title, medium_cover_image, summary, genres }) => {
   return (
-    <article>
+    <Container>
       <img src={medium_cover_image} alt="" />
       <h2>
         <Link to={`/movie/${id}`}>{title}</Link>
@@ -14,7 +19,7 @@ const Movie = ({ id, title, medium_cover_image, summary, genres }) => {
           <li key={item}>{item}</li>
         ))}
       </ul>
-    </article>
+    </Container>
   );
 };
 
